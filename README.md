@@ -1,26 +1,27 @@
 # BlueWave-Financial-Analysis
 **Power BI Financial Analysis dashboard for BlueWave Distribution Ltd. FY 2025-2026**
-**Project Objectives**
-In this project, I acted as a Lead Financial Analyst to perform a comprehensive audit of BlueWave Distribution Ltd.. My primary objective was to evaluate the efficacy of the current pricing strategy and determine if the high sales volume was translating into sustainable bottom-line growth.
+📌 Project Overview
+As a Financial Data Analyst, I built this dynamic Power BI suite to audit the fiscal health of BlueWave Distribution Ltd.. My goal was to determine if a massive $119M in sales was actually driving sustainable growth or just "hiding" underlying cost issues.
 
-**The Analytical Approach**
-Data Modeling & ETL: I used Power Query to normalize multi-currency data from various global regions (France, Germany, Mexico, etc.) into a unified reporting currency.
+Note: This project utilizes sample data created for the purpose of demonstrating advanced financial modeling and data visualization techniques.
 
-Advanced DAX Logic: I developed custom measures to calculate Cost Efficiency ratios and Margin Variance, allowing for a real-time view of how COGS impacts net profit.
 
-Segment-Based Performance: I structured the data to compare Government, Small Business, and Enterprise segments, identifying which sectors provided the highest Return on Sales (ROS).
+🛠️ Technical "Deep Dive"
+ETL & Data Modeling: I used Power Query to clean and normalize global sales data across various regions.
 
-**Key Analytical Findings**
-Critical Discount Exposure: My analysis uncovered that 93.31% of total revenue ($111M) is generated through discounted sales. This indicates an aggressive "market share grab" strategy that may be sacrificing long-term brand value for short-term volume.
+DAX Engineering: I developed custom measures to track Profit Margins, Cost Efficiency, and Discount Impact.
 
-Margin Compression: I identified that while profit is stable at $17M, the net margin is facing downward pressure (dipping toward 12%), primarily due to a high Cost of Goods Sold (COGS) of $102M.
+Interactive Design: I implemented slicers and drill-throughs so stakeholders can filter performance by country or segment in real-time.
 
-Portfolio Analysis: By isolating product-level data, I found that Paseo accounts for the largest share of the $119M total sales, making it the primary driver of the company's cash flow.
+💡 High-Impact Insights
+⚠️ The Discount Trap: My analysis flagged that 93.31% ($111M) of revenue relies on heavy discounting. This is a massive risk to long-term brand value.
 
-**Technical Proficiencies Demonstrated**
-Visualization: Interactive KPI cards, Slicers for temporal/geospatial analysis, and Trend Line forecasting.
+📊 Margin Pressure: While the $17M profit looks good, margins are dipping toward 12% because COGS ($102M) is eating up a huge chunk of the revenue.
 
-Financial Reporting: Automated the generation of Profit & Loss insights and performance tracking dashboards.
+🥇 Star Product: I identified Paseo as the top revenue generator, contributing over $20M—making it the "MVP" of the product portfolio.
 
+🏢 Sector Focus: The data shows Government and Small Business segments are the primary growth drivers, while "Enterprise" remains under-penetrated.
+
+✅ Skills DemonstratedFinancial Reporting: P&L insight generation and automated bank reconciliations.Data Storytelling: Turning complex spreadsheets into a clear, visual business case.Tools: Power BI, Advanced Excel (DAX/Power Query), and Financial Modeling.<img width="1401" height="786" alt="Screenshot 2026-04-10 073732" src="https://github.com/user-attachments/assets/8bdcebd1-edc1-4b64-a56b-1deff47b8a27" />
 
 Data Storytelling: Translating raw transaction logs into a high-level executive summary for stakeholder decision-making.
